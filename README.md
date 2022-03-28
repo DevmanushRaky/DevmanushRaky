@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on mern project **Mern-Project**
 
-- 🌱 I’m currently learning Backend and Databasee **vscode**
+- 🌱 I’m currently learning Backend and Database in mern development **vscode**
 
 - 👨‍💻 All of my projects are available at [https://devmanushraky.netlify.app/](https://devmanushraky.netlify.app/)
 
