@@ -1,6 +1,11 @@
+<img src="https://wallpapercave.com/wp/wp8903890.jpg" height="20%" width="100%" alt="MERN" />
+ 
+
 <h1 align="center">Hi 👋, I'm Rakesh Yadav</h1>
 <h3 align="center">A passionate Mern developer from India</h3>
 
+<img align="right" src="https://www.navicosoft.com/wp-content/uploads/2020/11/Web-design-scaled.jpg" height="40%" width="40%" alt="DevmanushRaky" />
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmanushraky&label=Profile%20views&color=0e75b6&style=flat" alt="devmanushraky" /> </p>
 
 - 🔭 I’m currently working on **Mern-Project**
@@ -15,9 +20,10 @@
 
 - 📄 Know about my experiences [https://devmanushraky.netlify.app/](https://devmanushraky.netlify.app/)
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rakesh yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh yadav" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rakesh-yadav-55565320b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh yadav" height="30" width="40" /></a>
 <a href="https://instagram.com/react_raky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="react_raky" height="30" width="40" /></a>
 </p>
 
