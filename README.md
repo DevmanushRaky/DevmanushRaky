@@ -1,20 +1,20 @@
-<img src="https://wallpapercave.com/wp/wp8903890.jpg" height="20%" width="100%" alt="MERN" />
+<img src="https://wallpaperaccess.com/full/1111946.jpg" height="8%" width="100%" alt="HomeImage" />
  
 
 <h1 align="center">Hi 👋, I'm Rakesh Yadav</h1>
-<h3 align="center">A passionate Mern developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <img align="right" src="https://www.navicosoft.com/wp-content/uploads/2020/11/Web-design-scaled.jpg" height="40%" width="40%" alt="DevmanushRaky" />
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmanushraky&label=Profile%20views&color=0e75b6&style=flat" alt="devmanushraky" /> </p>
 
-- 🔭 I’m currently working on **Mern-Project**
+- 🔭 I’m currently working on **Project**
 
-- 🌱 I’m currently learning Backend and Databasee **vscode**
+- 🌱 I’m currently learning **Core Java and Web Development**
 
 - 👨‍💻 All of my projects are available at [https://devmanushraky.netlify.app/](https://devmanushraky.netlify.app/)
 
-- 💬 Ask me about **react,html,css etc**
+- 💬 Ask me about **Html,Css, JavaScript, Bootstrap, ReactJs, Core Java etc**
 
 - 📫 How to reach me **rakesucluci@gmail.com**
 
