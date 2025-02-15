@@ -7,7 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmanushraky&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 - 🔭 Currently working on **Full-Stack Web Development Projects**
-- 🌱 Learning **Core Java, React.js, Node.js, and Web Technologies**
 - 👨‍💻 All my projects are available at: [My Portfolio](https://devmanushraky.netlify.app/)
 - 💬 Ask me about **HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js, MongoDB, Java**
 - 📫 Reach me at: **rakesucluci@gmail.com**
