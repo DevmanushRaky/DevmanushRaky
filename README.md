@@ -1,54 +1,79 @@
-![Home Banner](https://wallpaperaccess.com/full/1111946.jpg)
+<!-- Typing Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4AFB52&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Rakesh+Yadav+👋;Full+Stack+Developer+%7C+AI+Explorer+%7C+Junior+SDE;Building+Digital+India+with+Code+💻+and+LLMs!">
+</h1>
 
-# Hi 👋, I'm Rakesh Yadav
-### A Passionate Web Developer & Freelancer from India
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devmanushraky&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DevmanushRaky&label=Profile%20Views&color=brightgreen" alt="view-count" />
+  <img src="https://img.shields.io/github/followers/DevmanushRaky?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/DevmanushRaky?label=Stars&style=social" />
+</p>
 
-- 🔭 Currently working on **Full-Stack Web Development Projects**
-- 👨‍💻 All my projects are available at: [My Portfolio](https://devmanushraky.netlify.app/)
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js, MongoDB, Java**
-- 📫 Reach me at: **rakesucluci@gmail.com**
-- 📄 Know about my experiences: [Resume](https://devmanushraky.netlify.app/)
+---
+
+## 👨‍💻 About Me
+
+- 💼 Junior SDE at [Excellence Technology](https://excellencetechnology.in/)
+- 🛠️ Working on full-stack web apps powered by LLM & AI
+- 🌍 Passionate about tech that uplifts communities
+- 💻 Currently building: [Grampendra App](#), [Excess2Food](#)
+- 📫 Email: **rakesucluci@gmail.com**
+- 🔗 Portfolio: [devmanushraky.netlify.app](https://devmanushraky.netlify.app)
+
+---
+
+## 🛠 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevmanushRaky&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevmanushRaky&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
 ## 🌐 Connect with Me:
+
 <p align="left">
-<a href="https://www.linkedin.com/in/devmanushraky/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
-</a>
-</p>
-
-
----
-
-## 🛠️ Languages & Tools:
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-<a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a>
+  <a href="https://www.linkedin.com/in/devmanushraky/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:rakesucluci@gmail.com">
+    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://devmanushraky.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmanushraky&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+## 🚀 Tags & Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmanushraky&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
----
-
-## 🚀 Tags:
-**Freelance Web Developer, MERN Stack Developer, React Developer, Java Spring Boot, Front-End Developer, Back-End Developer, Full-Stack Developer, Web Design, SEO Optimization, Website Performance Optimization, UI/UX, JavaScript Developer, HTML, CSS, Node.js, Express.js, MongoDB, Redux, TypeScript, API-Development, NodeJs Developer**
+**MERN Stack Developer, React Developer, Full Stack Engineer, LLM Integration, AI Developer, UI/UX Enthusiast, SEO Optimizer, Firebase Expert, TypeScript, Supabase, Next.js, ShadCN, MongoDB**
 
 ---
+
+<p align="center">
+  <b>“Building digital impact with code, creativity, and coffee ☕”</b>
+</p>
