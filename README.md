@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevmanushRaky&label=Profile%20Views&color=brightgreen&base=10000" alt="view-count" />
+  <img src="https://komarev.com/ghpvc/?username=DevmanushRaky&label=Profile%20Views&color=brightgreen" alt="view-count" />
   <img src="https://img.shields.io/github/followers/DevmanushRaky?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/DevmanushRaky?label=Stars&style=social" />
 </p>
