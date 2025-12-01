@@ -14,14 +14,10 @@
 ---
 
 ## 👨‍💻 About Me
-
-- 💼 Junior SDE at [Excellence Technology](https://excellencetechnology.in/)
 - 🛠️ Working on full-stack web apps powered by LLM & AI
 - 🌍 Passionate about tech that uplifts communities
 - 💻 Currently building: [Grampendra App](#), [Excess2Food](#)
 - 📫 Email: **rakesucluci@gmail.com**
-- 🔗 Portfolio: [devmanushraky.netlify.app](https://devmanushraky.netlify.app)
-
 ---
 
 ## 🛠 Tech Stack & Tools
@@ -55,14 +51,9 @@
 ## 🌐 Connect with Me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/devmanushraky/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+  
   <a href="mailto:rakesucluci@gmail.com">
     <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://devmanushraky.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel" />
   </a>
 </p>
 
@@ -70,7 +61,7 @@
 
 ## 🚀 Tags & Skills
 
-**MERN Stack Developer, React Developer, Full Stack Engineer, LLM Integration, AI Developer, UI/UX Enthusiast, SEO Optimizer, Firebase Expert, TypeScript, Supabase, Next.js, ShadCN, MongoDB**
+**MERN Stack Developer, React Developer, Full Stack Engineer, LLM Integration, AI Developer, UI/UX Enthusiast, SEO Optimizer, Firebase Expert, TypeScript, Supabase, Next.js, ShadCN, MongoDB, AWS ,GCP , Cloud function, Model deployement on aws in gpu , Scrapping, vector db ( Pinecone , open search ) , Langfuse **
 
 ---
 
