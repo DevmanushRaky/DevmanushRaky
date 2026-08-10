@@ -86,23 +86,7 @@ I'm an **AI-focused Full-Stack Developer** who builds production-ready web apps,
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevmanushRaky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=6EE7B7&text_color=ffffff"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevmanushRaky&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=ffffff&langs_count=8"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevmanushRaky&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=6EE7B7&currStreakLabel=3B82F6" alt="GitHub Streak" width="60%"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DevmanushRaky&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -116,8 +100,3 @@ I'm an **AI-focused Full-Stack Developer** who builds production-ready web apps,
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:6EE7B7&height=120&section=footer&animation=fadeIn" width="100%"/>
-</div>
